@@ -32,19 +32,25 @@ body {
   border-radius: 10px;
 }
 
-
 h1 {
-  font-size: 1.25rem;
+  font-family: 'Outfit', sans-serif;
+  font-size: 22px;
   font-weight: 700;
-  color: hsl(218, 44%, 22%);
+  line-height: 1.2; /* 120% */
+  text-align: center;
+  color: #1F314F;
 }
 
 p {
+  font-family: 'Outfit', sans-serif;
   font-size: 15px;
   font-weight: 400;
-  color: hsl(216, 15%, 48%);
-  line-height: 1.4;
+  line-height: 1.4;       /* 140% */
+  letter-spacing: 0.2px; /* importante, no lo tenías */
+  text-align: center;
+  color: #68778D;
 }
+
 
 
 .text {
@@ -56,5 +62,9 @@ p {
   /* margin: 0 auto; */
   text-align: center;
 }
+
+
+
+
 
 
