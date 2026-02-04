@@ -10,8 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://github.com/tu-usuario/qr-code-component
-- Live Site URL: https://tu-usuario.github.io/qr-code-component/
+- Solution URL: https://github.com/vale345/QR-code-component
+- Live Site URL: https://qr-code-component-drab-mu.vercel.app/
 
 ## My process
 
@@ -42,7 +42,7 @@ I want to keep improving my layout and spacing skills, especially working with r
 
 ## Author
 
-- Frontend Mentor - [@tu-usuario](https://www.frontendmentor.io/profile/tu-usuario)
+- Frontend Mentor - [@vale345](https://www.frontendmentor.io/profile/vale345)
 
 ## Acknowledgments
 
